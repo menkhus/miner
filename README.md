@@ -1,3 +1,8 @@
+## Miner, a framework to collect data from rss and 
+## mail sources.
+
+### Miner v0.0.0 is not functional
+
 Miner is a set of classes to allow collection and 
 management of RSS, email, and other social media content.
 The idea is based on the success I have had mining topic
@@ -11,9 +16,9 @@ that allows for feeds to be setup, and then monitored daily.
 Topic keyword mining is the easiest use case, with NLP features
 being provided next.
 
-The presentation layer is restful with JSON putput, and there
+The presentation layer is restful with JSON output, and there
 is a simple web app that allows for configuration, management,
 viewing and searching of content.
 
-(c) Mark Menkhus, May 2015
+(c) Mark Menkhus, August 2015
 License is the Apache license (see License.md)
