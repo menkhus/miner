@@ -23,7 +23,7 @@ class rss_collector:
         """ setup class for first use
         """
         try:
-            self.db = collector_database()
+            self.db = collector_database
         except Exception, error:
             print "rss_collector.__init__ %s" % (error,)
             sys.exit(1)
