@@ -1,18 +1,18 @@
 #!/usr/bin/env python
 """
-    _____ is part of the miner project
+    mail_collector is part of the miner project
 
-    (c) Mark Menkhus, 2015 
+    (c) Mark Menkhus, 2015
 
-    Licensed under the apache lincense, see LICENSE.md
+    Licensed under the apache license, see LICENSE.md
 
 """
 
 
-def main ():
+def main():
     """ test the classes
     """
-    print "main was called"
+    print "mail collector main was called"
     exit()
 
 
