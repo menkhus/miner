@@ -12,7 +12,7 @@ fi
 
 # test harness for main programs and features
 echo "* version test:"
-../version.py > "$debug"
+../miner/version.py > "$debug"
 if [ $? ]
 then
     echo "Version passed"
