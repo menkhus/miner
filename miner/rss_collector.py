@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-    _____ is part of the miner project
+    rss_collector is part of the miner project
 
     (c) Mark Menkhus, 2015
 
