@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Mark Menkhus <mark.menkhus@gmail.com>
+* Mark Menkhus <menkhus@icloud.com>
 
 Contributors
 ------------

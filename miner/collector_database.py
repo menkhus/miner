@@ -55,7 +55,7 @@ class collector_database:
         insert into version (
         database_author, database_version, database_date, about)
         values (
-        'Mark Menkhus, mark.menkhus@gmail.com',
+        'Mark Menkhus, menkhus@icloud.com',
         '1.0',
         '7-jun-2015',
         'This database was created for the miner project to collect rss mail etc.

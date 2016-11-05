@@ -28,7 +28,7 @@ setup(
     description="rss feed miner, stores in database, daily updater, filters, create filtered feeds, html output",
     long_description=readme + '\n\n' + history,
     author="Mark Menkhus",
-    author_email='mark.menkhus@gmail.com',
+    author_email='menkhus@icloud.com',
     url='https://github.com/menkhus/miner',
     packages=[
         'miner',

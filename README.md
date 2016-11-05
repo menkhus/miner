@@ -1,12 +1,12 @@
-## Miner, a framework to collect data from rss and 
+## Miner, a framework to collect data from rss and
 ## mail sources.
 
 ### Miner v0.0.0 is not functional
 
-Miner is a set of classes to allow collection and 
+Miner is a set of classes to allow collection and
 management of RSS, email, and other social media content.
 The idea is based on the success I have had mining topic
-specific information, and how lame it was that this is 
+specific information, and how lame it was that this is
 not a trivial application that anyone can't acquire,
 configure and use.  Google's news was a nice app, and I
 was disappointed that this is not available for folks.
@@ -21,4 +21,5 @@ is a simple web app that allows for configuration, management,
 viewing and searching of content.
 
 (c) Mark Menkhus, August 2015
+menkhus@icloud.com
 License is the Apache license (see License.md)

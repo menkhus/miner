@@ -2,7 +2,7 @@
 """ version and other features of the app
 """
 
-__author__ = "Mark Menkhus, mark.menkhus@gmail.com"
+__author__ = "Mark Menkhus, menkhus@icloud.com"
 __version__ = "miner v0.0-0"
 
 

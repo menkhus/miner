@@ -27,7 +27,7 @@ License:
 
 """
 
-__author__ = "Mark Menkhus; mark.menkhus@gmail.com"
+__author__ = "Mark Menkhus; menkhus@icloud.com"
 __version__ = ".1"
 
 import urllib2
